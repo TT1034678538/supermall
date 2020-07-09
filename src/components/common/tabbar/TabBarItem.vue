@@ -53,6 +53,6 @@
     margin-bottom: 3px;
   }
   .active{
-    color: blue;
+    color: cornflowerblue;
   }
 </style>
